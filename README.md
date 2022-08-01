@@ -10,7 +10,7 @@
 
 <p>
 Segunda que vez que participo e dessa vez o projeto foi criar um slider com cards Pokemón. Valeu muito a pena, pois além
-desse eu também desenvolvi a minha versão do Slider com outro tema, <a href="https://felipe-rodsilva.github.io/saint-seiya-slider/"> Veja aqui! </a>
+desse eu também desenvolvi a minha versão do Slider com outro tema, <a href="https://felipe-rodsilva.github.io/saint-seiya-slider/" target="_blank"> Veja aqui! </a>
 </p>
 
 <p> Pude, através do evento e da prática também fixar e aprender vários conceitos importantes das linguagens HTML5, CSS3 e JavaScript.</p>
